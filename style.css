@@ -1,7 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Asap:400,500,700';
   @font-face {
   font-family:montserrat;
-  src:url(http://lyricsbd.github.io/247/montserrat-light-webfont.woff2) format('woff2'),url(http://lyricsbd.github.io/247/montserrat-light-webfont.woff) format('woff');
+  src:url(https://lyricsbd.github.io/247/montserrat-light-webfont.woff2) format('woff2'),url(https://lyricsbd.github.io/247/montserrat-light-webfont.woff) format('woff');
   font-weight:300;
   font-style:normal;
 }
