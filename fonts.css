@@ -1,7 +1,7 @@
 @font-face {
   font-family:fontawesome;
-  src:url(../fonts/fontawesome-webfont.eot?v=4.6.3);
-  src:url(../fonts/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'),url(../fonts/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(../fonts/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(../fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
+  src:url(https://lyricsbd.github.io/247/fontawesome-webfont.eot?v=4.6.3);
+  src:url(https://lyricsbd.github.io/247/fontawesome-webfont.eot?#iefix&v=4.6.3) format('embedded-opentype'),url(https://lyricsbd.github.io/247/fontawesome-webfont.woff?v=4.6.3) format('woff'),url(https://lyricsbd.github.io/247/fontawesome-webfont.ttf?v=4.6.3) format('truetype'),url(https://lyricsbd.github.io/247/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular) format('svg');
   font-weight:400;
   font-style:normal;
 }
