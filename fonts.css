@@ -2863,8 +2863,8 @@
   font-family:material icons;
   font-style:normal;
   font-weight:400;
-  src:url(../fonts/MaterialIcons-Regular.eot);
-  src:local('Material Icons'),local('MaterialIcons-Regular'),url(../fonts/MaterialIcons-Regular.woff2) format('woff2'),url(../fonts/MaterialIcons-Regular.woff) format('woff'),url(../fonts/MaterialIcons-Regular.ttf) format('truetype'),url(../fonts/MaterialIcons-Regular.svg#MaterialIcons-Regular) format('svg');
+  src:url(https://lyricsbd.github.io/247/MaterialIcons-Regular.eot);
+  src:local('Material Icons'),local('MaterialIcons-Regular'),url(https://lyricsbd.github.io/247/MaterialIcons-Regular.woff2) format('woff2'),url(https://lyricsbd.github.io/247/MaterialIcons-Regular.woff) format('woff'),url(https://lyricsbd.github.io/247/MaterialIcons-Regular.ttf) format('truetype'),url(https://lyricsbd.github.io/247/MaterialIcons-Regular.svg#MaterialIcons-Regular) format('svg');
 }
 
 .AAIco-3d_rotation:before {
